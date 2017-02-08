@@ -1,0 +1,8 @@
+{
+    "runtime": {
+        "majorVersion": "8"
+    },
+    "command": "java -jar ShowTimes-1.0-jar-with-dependencies.jar",
+    "release": {},
+    "notes": "ShowTimes Spark REST Service"
+}

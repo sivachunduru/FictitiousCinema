@@ -1,0 +1,8 @@
+{
+    "runtime": {
+        "majorVersion": "8"
+    },
+    "command": "java -jar Users-1.0.jar",
+    "release": {},
+    "notes": "Users Spring Boot REST Service"
+}
