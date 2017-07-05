@@ -9,4 +9,3 @@ done < "$config_file"
 
 ip=`python ./Public_IP.py ${cloud_username} ${cloud_password} ${cloud_domain} ${cloud_rest_url}`
 echo "${ip}"
-

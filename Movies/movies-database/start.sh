@@ -13,4 +13,3 @@ docker exec movies-db mysqladmin --silent --wait=10 -ucinema_service -pwelcome1 
 
 echo "Setting up sample data..."
 docker exec -i movies-db mysql -ucinema_service -pwelcome1 cinema < movies.sql
-
